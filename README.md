@@ -19,6 +19,6 @@ sudo pip install boto3
 sudo python3 app.py
  
 6.	After this go to your browser and type 
-http://<Your-Public-IP-of-ec2>:80  
+[http://<Your-Public-IP-of-ec2>:80]  
 
- 7. If everything is OK you will see a box to enter the text.
+ 8. If everything is OK you will see a box to enter the text.
