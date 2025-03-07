@@ -4,11 +4,10 @@ This project shows the sentiment score (positive, negative, neutral) of the ente
 To start the project in your own ec2 instance you need to follow the steps below-
 1.	Make sure your files are in the directory as listed below
 
-home/ec2-user/
-             |app.py
-		         |comprehend.py
-		         |templates/
-		                    |index.html
+home/ec2-user/app.py
+home/ec2-user/comprehend.py
+home/ec2-user/templates/index.html
+
 2.	Once you setup the files add the relevant code into it like below –
 
 app.py
